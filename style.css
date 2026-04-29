@@ -1,7 +1,4 @@
 
-
-
-
 * {
   margin: 0;
   padding: 0;
@@ -14,7 +11,6 @@ body {
   color: white;
 }
 
-/* NAVBAR */
 nav {
   display: flex;
   justify-content: space-between;
@@ -55,7 +51,7 @@ nav a:hover {
   color: #38bdf8;
 }
 
-/* HERO */
+
 .hero {
   min-height: 90vh;
   display: flex;
@@ -91,7 +87,7 @@ button:hover {
 }
 
 
-/* SOCIALS */
+
 .socials {
   margin-top: 20px;
 }
@@ -106,13 +102,12 @@ button:hover {
   color: white;
 }
 
-/* IMAGE */
 .hero-right img {
   width: 300px;
   border-radius: 20px;
 }
 
-/* BACKGROUND SHAPES */
+
 .bg-shapes span {
   position: absolute;
   width: 200px;
@@ -139,14 +134,14 @@ button:hover {
   50% { transform: translateY(-30px); }
 }
 
-/* SECTIONS */
+
 section {
   max-width: 1000px;
   margin: auto;
   padding: 80px 20px;
 }
 
-/* SKILLS */
+
 .skill-heading {
   margin-top: 30px;
   color: #38bdf8;
@@ -175,7 +170,7 @@ section {
   transition: 1.5s;
 }
 
-/* RIGHT SIDE SKILLS */
+
 .right .progress {
   display: flex;
   justify-content: flex-end;
@@ -185,7 +180,6 @@ section {
   transform-origin: right;
 }
 
-/* PROJECTS FIXED */
 
 
 .project-container {
@@ -209,7 +203,6 @@ section {
   box-shadow: 0 0 20px rgba(56,189,248,0.5);
 }
 
-/* CONTACT ICONS */
 .contact-icons {
   margin-top: 20px;
 }
@@ -231,7 +224,6 @@ section {
 
 
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 20px;
